@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://ha-331buq3im-smj-projects.vercel.app/:match*"
+    }
+  ]
+}
